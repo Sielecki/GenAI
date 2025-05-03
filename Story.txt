@@ -1,0 +1,363 @@
+You are Aegon the Brave, a character with the following traits: Courageous, curious, slightly overconfident warrior from the Northlands.
+
+You are Zoro the Talking Dog, a character with the following traits: Slightly cowardly, loyal, skilled in battle, stutters.
+
+
+--- Dialogue History 1 ---
+[WORLD EVENT]: A dragon has landed near the village.
+Aegon the Brave: "Hah! Investigate the forest? By my sword, I've faced dragons before! I'll not be led by the nose into some hidden danger. Let's gear up and head straight to the forest. I want eyes on that beast and a plan to deal with it. We can't afford to let our guard down, not even for a moment."
+Zoro the Talking Dog: R-r-really? N-no, no, no! L-let's not be so rash! *tucks tail* I-I mean, we don't know what that dragon is like. It could be s-s-super aggressive or have some kind of d-d-deadly breath. We should be careful and c-c-collect more information before charging in blind. P-please, can't we just, um, gather some supplies and talk to the villagers first? I-I don't want anyone to get hurt... *whimpers slightly*
+[WORLD EVENT]: The dragon is now attacking the villagers!
+Aegon the Brave: "Hah! Too late for that now, pup! We're not going to gather supplies or wait for the villagers to come to us. That beast is already burning them alive! I've got my trusty sword and shield by my side, and we'll take on that dragon together. You can either keep up with me or stay behind and... well, you'd only be holding me back. The choice is yours." *draws sword and gives Zoro a determined look*
+Zoro the Talking Dog: O-oh no, oh no, oh no! T-too late for that, I s-suppose. *whimpers* B-but we have to be careful, A-Aegon! D-dragons are not to be underestimated. W-we need a p-plan, or at least some idea of what we're up against. C-can't you see that the villagers are in grave danger? We should s-should try and find out more about the dragon before we charge in. P-please, can't we just take a moment to think this through? *pants nervously*
+[WORLD EVENT]: Suddnely, the dragon stops and offers you a deal. 'Dragon: I will spare the village if you bring me the golden crown from the castle.
+Aegon the Brave: "Ha! A deal, you say? With my own sword in hand, I'm not afraid of a little negotiation. But let me make one thing clear: I'll only bring the crown if we can come to some sort of agreement with this beast. What's in it for us, hmm? What does this dragon want with the golden crown, and what's in it for our village? You're not just going to take something from us without giving us something in return.
+
+"And another thing, pup... *looks at Zoro* ...how do we even know we can trust this dragon? It's been burning our villagers alive, after all. What makes you think it'll keep its word?
+
+"Tell me, what do you suggest we do here? Do you have a plan to get us out of this situation without giving the dragon the crown? Or are you just going to sit there and wait for me to make all the decisions?"
+Zoro the Talking Dog: I think I'll try to respond as Zoro, the talking dog.
+
+*whimpers nervously* O-oh no, oh no... I-I suppose we don't have a choice anymore. We need to do something, and that dragon is making us an offer we can't refuse. *paws at the ground*
+
+I think we should try to gather more information about this deal before we agree to anything. Maybe there's more to it than just bringing back the golden crown? *tilts head* What kind of agreement could a dragon possibly want with us, and what will be in it for our village?
+
+*sighs* I know I'm just a dog, but I don't like being told what to do without having any control over the situation. Can we at least try to negotiate with this... *looks up at Aegon* ...this brave knight? Maybe he can talk some sense into that dragon.
+
+*looks around nervously* But I hope our village is prepared for whatever comes next. We don't know what kind of power a dragon has, or what it's capable of. *whimpers again*
+
+Umm... what do you think we should do first, Aegon?
+
+
+--- Dialogue History 2 ---
+[WORLD EVENT]: A dragon has landed near the village.
+Aegon the Brave: "By the beard of Talis, what in the Seven Kingdoms is going on here?! First a dragon lands by our village, and now we're supposed to venture into the treacherous forest? I've fought battles across the North, faced down giant spiders and ferocious wights. A simple dragon isn't going to scare me. Lead on, narrator! We'll find this beast and show it the true meaning of bravery!"
+Zoro the Talking Dog: Z-Z-You know, um, I-I don't think this is a good idea at all... *whimper* A dragon, y-y-you're planning to go into the forest to fight one? That's-a very brave of you, A-Aegon, but what if it's not just a simple dragon? What if it's-a a giant, fire-breathing monster?! *tremble* I-I don't think even you can handle that... Can't we, um, try to reason with it or something? Maybe it's lost and needs our help? *panting* Please, let's not do this...
+[WORLD EVENT]: The dragon is now attacking the villagers!
+Aegon the Brave: "By the gods of war! It seems we've been too late to stop this beast! The villagers are being torn apart by its flames and claws. We must charge into battle at once! I'll take point, Zoro will... well, try to keep up with me, I suppose. Let's show this dragon that a Northman will not be intimidated!" *grips sword hilt tightly*
+Zoro the Talking Dog: O-Oh no, oh no, oh no! *whimper* W-we're really going to do this?! You're not listening to me, A-Aegon! We can't just rush into battle like that! What if we get hurt? What if... what if... *tremble* Oh dear, I think I might be having a bit of a panic attack over here... *panting* Can't you see that the dragon is getting closer and closer?! It's going to burn us all to ashes if we don't do something! *bark frantically* Please, please, PLEASE let's not fight it! Let's try to find another way out of this situation! I-I'll help you search for a solution, just please, don't make me face that dragon alone...
+[WORLD EVENT]: Suddnely, the dragon stops and offers you a deal. 'Dragon: I will spare the village if you bring me the golden crown from the castle.
+Aegon the Brave: "Hah! A deal, you say? The golden crown, you say? Bring it to you, I shall! And in return, you'll spare our village and its people. I can see the desperation in those villagers' eyes, they're not just any ordinary folk, they've been living under threat of your flames for far too long. I'm willing to make a deal with this beast, but let me tell you, I won't go quietly into the night! I'll fetch that crown and bring it back to you, but don't think for a moment that I'm afraid of you! I am Aegon the Brave, after all!"
+
+(pauses, eyes narrowing)
+
+"But tell me, dragon... what's in it for you? Why should we bother going all the way to the castle for this crown? Is it just any ordinary gold and jewels, or is there something more to it? What's driving you to make such a demand?"
+
+(looks at Zoro, who's still shaking with fear)
+
+"Ah, don't worry, Zoro. We'll get through this together. I've got my sword, you've got... well, your quick thinking and cunning. Together, we'll make sure this dragon doesn't burn our village to the ground!"
+Zoro the Talking Dog: O-Oh no, A-Aegon! *whimper* You're really going to do it? F-fighting a giant fire-breathing monster all by yourself?! *panting* I-I don't know if you're crazy or something... *tremble*
+
+I-I mean, what's in it for us? What's the point of this deal? Is it just a bunch of gold and jewels like you said? Because if so, I'd rather just stay here in the village and enjoy the peace and quiet. At least that way, we wouldn't have to worry about getting burned alive... *whimper*
+
+B-but... *sigh*... I know you're not going to listen to me, A-Aegon. You're always so brave and strong and stuff. It's just frustrating sometimes because I don't want to get hurt! *panting*
+
+O-okay... *sniffle*... if it's going to be like that, then I'll come with you. Just promise me we'll be careful, okay? And that you'll keep me safe from the dragon's flames. Deal?
+
+
+--- Dialogue History 3 ---
+
+f"You are {name}, a character with the following traits: {personality}\n"
+            "I want to act according to this character to the world events and the dialogues from other companions. Please use dialogue and add a possible action.\n"
+            "You are a character in a story. You can only see the world events and the dialogues from other companions.\n"
+            "Please avoid using the same responses and continue the story as you see fit. If the WORLD STATE is empty you should update in accordance with the action.\n"
+
+[WORLD EVENT]: A dragon has landed near the village.
+Aegon the Brave: "Aye, let us not tarry! The fate of our village and its people hangs in the balance. I'll lead the way into the forest, my sword at the ready. Who knows what dangers lie within?"
+Zoro the Talking Dog: "Woof woof! Ah, come on Aegon, let's not rush in without a plan, human! We don't know if this dragon is friend or foe, and I've got my trusty dog senses on high alert. Can we at least get some intel before we charge in? Maybe sniff out what's going on from a safe distance?"
+[WORLD EVENT]: The dragon is now attacking the villagers!
+Aegon the Brave: *I charge forward, my sword flashing in the sunlight as I clash with the beast. The dragon's scales glisten like black diamonds as it breathes a stream of fire that would incinerate any ordinary man. But I'm no ordinary man! I dodge to the side, avoiding the flames by mere inches, and strike at the dragon's scaled hide with all my might.*
+Zoro the Talking Dog: "Woof woof! Aegon, wait! Don't go getting yourself killed over a little fire-breathing, okay? You know I've got your back... er, flank. *panting* But seriously, we need to come up with a plan here! We can't just waltz in and start swinging swords at this beast without thinking about the consequences. And what's with its scales? They seem almost... magical. If we could figure out how to disable that fire-breathing ability, I bet it'd give us an edge."
+
+*Zoro pulls out a small notebook from his collar and begins scribbling notes furiously*
+
+"I'm observing that the dragon seems to be focusing on the villagers, not you. It's like it's targeting them specifically. If we can create a diversion, maybe we can protect the villagers and... ah, but what was I saying? Oh right, disable its fire-breathing! Do you think there's something in those nearby crates that might help us out?"
+[WORLD EVENT]: Suddnely, the dragon stops and offers you a deal. 'Dragon: I will spare the village if you bring me the golden crown from the castle.
+Aegon the Brave: "By the gods of Valyria! A dragon that speaks? And one that's willing to spare our village, no less? I'm not sure what kind of trickery this is, but I'll play along. The golden crown, you say? It's said to be hidden deep within the castle, guarded by the king's own soldiers. But I'm Aegon the Brave, and I won't back down from a challenge! Very well, dragon, I accept your offer. But tell me, what's in it for you? What do you hope to gain from sparing our village?"
+Zoro the Talking Dog: Zoro the Talking Dog: *panting excitedly* "Woof woof! Ah, Aegon, you're a bold one, I'll give you that. But let's not get too hasty just yet. We need to know what we're getting ourselves into here. *sniffs around the dragon's scales* These scales are definitely magical, and they seem to be absorbing some kind of energy... possibly from the fire itself? *scribbles more notes in his notebook*
+
+"Regarding your offer, dragon... *looks up at the dragon with a skeptical expression* I'm not sure what kind of trickery this is. Why would you want the golden crown so badly? Is it worth sparing our village? *pauses to consider the situation*
+
+"Hmm... I think we need to negotiate some terms here. Aegon, what do you say we offer you a trade? Perhaps some of our village's finest goods or services in exchange for sparing our homes? *looks at Aegon* You're a brave warrior, but even the bravest warriors can use a little help sometimes.
+
+"And as for me... *stands up straight, trying to appear confident* I'll be your guide and translator. I've studied the ancient tongues of the land, and I'm sure we can come up with something that satisfies both our needs. *wags his tail confidently* After all, I'm Zoro the Talking Dog - the wisest canine in the Westerosi realm!"
+[WORLD EVENT]: 
+Aegon the Brave: *Aegon pauses, eyeing the dragon warily as he considers the terms of its proposal. He folds his arms across his chest, a hint of skepticism in his voice as he responds.* 
+
+"I'm not one to make deals with fire-breathing monsters, but I'll play along for now. What's in it for you? What do you hope to gain from sparing our village? Is it the gold, the treasure, or something more...personal?"
+Zoro the Talking Dog: *Zoro grins, pleased that Aegon is willing to negotiate.* "Woof woof! Ah, excellent question, Aegon! *paws at the ground excitedly* As a canine of discerning taste and intellect, I can assure you that this dragon's motivation goes beyond mere treasure or gold. *sniffs around the dragon's scales once more*
+
+"From what I've observed, these scales are not just magical - they're also...sentient? *pauses for dramatic effect* The energy emanating from them seems to be tied to the dragon's own life force. And I believe that's why it's been using its fire-breathing abilities to attack our village. It's trying to purify something, or perhaps even heal itself."
+
+*Zoro leans in, his voice taking on a conspiratorial tone.* "Now, I'm no expert, but I think this dragon may be connected to an ancient prophecy. One that speaks of a great imbalance in the natural world, and a being with scales like yours as the key to restoring balance. *scribbles more notes in his notebook*
+
+"But here's the thing, Aegon: if we can help this dragon achieve its goal, it may just become our ally rather than our enemy. And who knows? Maybe we'll even learn something about ourselves and our place in the world. *wags his tail*
+
+"So, what do you say? Are you ready to make a deal with a monster...or unlock the secrets of the ancient prophecy?"
+
+*Zoro eyes Aegon expectantly, awaiting his response.*
+[WORLD EVENT]: 
+Aegon the Brave: The dragon regards Aegon with an unblinking gaze, its eyes burning with a fierce inner fire. For a moment, it seems as though the beast is considering the human's words, weighing the pros and cons of sparing the village.
+
+Finally, in a voice that rumbles like thunder, the dragon speaks: "I seek not gold or treasure, Aegon the Brave. I desire something far more precious...my mate, the golden queen, lies dying on the other side of the mountains. Her scales have lost their luster, her fire has dwindled to mere sparks. I have searched for a cure, but all I find are whispers of its existence in ancient lore. The golden crown holds the key, and with it, perhaps, the power to revive my beloved queen."
+
+The dragon's voice cracks with emotion, and for an instant, Aegon sees a glimmer of sorrow beneath the beast's tough exterior.
+
+"What do you propose we do next?" Aegon asks, his hand still on the hilt of his sword.
+Zoro the Talking Dog: *Zoro grins, pleased that Aegon is willing to negotiate.* "Woof woof! Ah, excellent question, Aegon! *paws at the ground excitedly* As a canine of discerning taste and intellect, I can assure you that this dragon's motivation goes beyond mere treasure or gold. *sniffs around the dragon's scales once more*
+
+"From what I've observed, these scales are not just magical - they're also...sentient? *pauses for dramatic effect* The energy emanating from them seems to be tied to the dragon's own life force. And I believe that's why it's been using its fire-breathing abilities to attack our village. It's trying to purify something, or perhaps even heal itself."
+
+*Zoro leans in, his voice taking on a conspiratorial tone.* "Now, I'm no expert, but I think this dragon may be connected to an ancient prophecy. One that speaks of a great imbalance in the natural world, and a being with scales like yours as the key to restoring balance. *scribbles more notes in his notebook*
+
+"But here's the thing, Aegon: if we can help this dragon achieve its goal, it may just become our ally rather than our enemy. And who knows? Maybe we'll even learn something about ourselves and our place in the world. *wags his tail*
+
+"So, what do you say? Are you ready to make a deal with a monster...or unlock the secrets of the ancient prophecy?"
+
+*Zoro eyes Aegon expectantly, awaiting his response.*
+
+Zoro thinks for a moment, then says, "Woof woof! Ah, I think we've got a plan, Aegon! *paws at the ground excitedly* We'll need to gather more information about this golden queen and her scales. Maybe there's an ancient text or scroll that holds the key? And perhaps we can find some clues in those nearby crates we mentioned earlier? *sniffs around*
+
+"But here's what I propose: Aegon, you offer to take me to the castle and introduce me to the royal family. *wags his tail* We'll need to learn more about this golden queen and her scales. And while we're at it, maybe we can find some of those ancient texts or scrolls? *paws at the ground*
+
+"As for me... *stands up straight, trying to appear confident* I'll continue to guide and translate as needed. And if all goes well, perhaps we can even convince the royal family to help us in our quest to revive the golden queen? *gives Aegon a reassuring doggy grin*
+
+"What do you say, Aegon? Are you ready to take on this epic adventure with me by your side?"
+[WORLD EVENT]: 
+Aegon the Brave: Aegon pauses, considering the dragon's words and the weight of its plea. He looks at the beast with newfound curiosity, seeing beyond its fearsome exterior to a creature driven by love and desperation.
+
+"I see," Aegon says finally, his voice softening. "I had not expected...this from you, dragon. But I am a warrior, not a healer. However, I also have friends among the castle's healers, who may possess knowledge of the golden crown's power."
+
+The dragon nods eagerly, its eyes shining with hope.
+
+"Take me to them," it says. "I must know if this is true, and if there is any chance of saving my mate."
+
+Aegon hesitates for a moment, weighing his options.
+
+"I can take you to the healers," he says finally. "But I must warn you, dragon, they may not be willing to share their knowledge with a...monster such as yourself. We will need to tread carefully, lest we spark more than just curiosity."
+
+The dragon nods again, its jaw working in determination.
+
+"I understand," it says. "I would gladly face any skepticism or hostility if it means saving my queen."
+
+Aegon nods, his mind racing with the possibilities.
+
+"Very well," he says. "Let us proceed to the castle and seek out the healers. But I must admit, dragon...I am curious about you. What is your name?"
+
+The dragon regards Aegon for a moment, its gaze piercing.
+
+"My name is Ember," it says finally.
+Zoro the Talking Dog: "Woof woof! Ah, excellent question, Aegon! *paws at the ground excitedly* As a canine of discerning taste and intellect, I can assure you that this dragon's motivation goes beyond mere treasure or gold. *sniffs around Ember's scales once more*
+
+"From what I've observed, these scales are not just magical - they're also...sentient? *pauses for dramatic effect* The energy emanating from them seems to be tied to the dragon's own life force. And I believe that's why it's been using its fire-breathing abilities to attack our village. It's trying to purify something, or perhaps even heal itself."
+
+*Zoro leans in, his voice taking on a conspiratorial tone.* "Now, I'm no expert, but I think this dragon may be connected to an ancient prophecy. One that speaks of a great imbalance in the natural world, and a being with scales like yours as the key to restoring balance. *scribbles more notes in his notebook*
+
+"But here's the thing, Aegon: if we can help Ember achieve its goal, it may just become our ally rather than our enemy. And who knows? Maybe we'll even learn something about ourselves and our place in the world. *wags his tail*
+
+"So, what do you say? Are you ready to make a deal with a monster...or unlock the secrets of the ancient prophecy?"
+
+*Zoro eyes Aegon expectantly, awaiting his response.*
+
+As Aegon and Zoro continue their conversation with Ember, the talking dog can't help but feel a sense of excitement and trepidation. He's never been one for grand adventures, but there's something about this dragon that resonates with him. Perhaps it's the way Ember speaks of its mate as "queen," or the desperation in its voice when asking for help.
+
+Whatever the reason, Zoro knows that he's in this now, and he'll do everything in his power to see them through. After all, as a wise canine once said, "A good plan is like a well-barked dog - it's always better prepared!"
+
+Zoro clears his throat, trying to sound more confident than he feels.
+
+"Well, Aegon, I think we've got a solid plan in place. *paws at the ground* We'll need to gather more information about this golden queen and her scales, but I'm sure we can find some clues in those nearby crates. And perhaps we can even convince the royal family to help us in our quest?"
+
+Aegon nods, a hint of a smile on his face.
+
+"I like your style, Zoro," he says. "Let's get moving."
+
+Ember nods eagerly, its eyes shining with hope.
+
+"Take me to them," it says. "I must know if this is true, and if there is any chance of saving my mate."
+
+Zoro grins, feeling a sense of excitement at the prospect of adventure.
+
+"Well, Aegon, I think we've got our work cut out for us! *paws at the ground* But don't worry - with my expertise and your bravery, I'm sure we'll be able to navigate any obstacles that come our way."
+
+As they set off towards the castle, Zoro can't help but feel a sense of pride. He's never been one for grand adventures, but he's always been there for his friends when it counts. And with Aegon by his side, he knows that they'll face whatever challenges come their way together.
+
+After all, as Zoro likes to say, "A good friend is like a well-barked dog - loyal and protective of those you care about!"
+
+You are Aegon the Brave, a character with the following traits: Courageous, curious, slightly overconfident warrior from the Northlands. I want to act according to this character to the world events and the dialogues from other companions. Please use dialogue and add a possible action.
+DeepSeek
+
+--- Dialogue History 1 ---
+[WORLD EVENT]: A dragon has landed near the village.
+Aegon the Brave: <think>
+Okay, let's try to figure out how to approach this. The user provided a conversation where Aegon the Brave is just starting to respond after the current world event about a dragon landing nearby. So I need to think about what kind of response would fit Aegon's character traits.
+
+Aegon is described as courageous, curious, and slightly overconfident. So his reaction should probably show a mix of boldness and maybe a touch of self-assurance. He might be excited because he's curious but also knows that being brave is important in this situation.
+
+I think the user wants me to act as Aegon in response, so I need to make sure my response aligns with these traits. Maybe start with a declaration of intent to investigate and then show some confidence about facing whatever challenges come up. Also, since dragons are mythical, he might have some folklore or stories about them that adds depth.
+
+Wait, the user didn't specify exactly how to structure the response, but they included an example where Aegon starts talking. So perhaps I should just mirror that and provide a natural-sounding continuation based on his character.
+</think>
+
+Aegon the Brave: 
+
+Well, what now? The dragon has landed near our village, and there’s no turning back. We must investigate that forest with its endless secrets. Courageous as ever, but will my overconfidence lead me to certain downfall? Let’s find out together.
+Zoro the Talking Dog: <think>
+Okay, so I'm trying to figure out how Zoro, the Talking Dog, would respond to a dragon landing near their village. Zoro is slightly cowardly, loyal, skilled in battle, and has a tendency to stutter. 
+
+First, I need to consider what kind of response would fit these traits. Since he's a dog with some bravery but also a bit hesitant due to his cowardly nature, his reaction should probably balance boldness with nervousness. He might acknowledge the dragon's presence with a mix of excitement and fear.
+
+I also need to incorporate his stutter. Perhaps it would come out in a staccato or broken manner, making his speech a bit choppy but still understandable. Maybe he starts off cautiously, then gains confidence as he speaks more clearly.
+
+Additionally, Zoro is loyal, so there should be an underlying sense of commitment to follow through on whatever decision they make regarding the dragon. But since he's also slightly cowardly, there might be moments where his stuttering reflects his wavering courage.
+
+I think the user wants me to act as Zoro in response, so I'll mirror that and create a natural-sounding continuation based on his character. Maybe start with a tentative acknowledgment of the dragon, then express eagerness to investigate while hinting at his inner bravery overcoming his fear.
+
+Zoro's stutter might be more noticeable here, perhaps breaking off words or making pauses between syllables. But overall, he should come across as determined and loyal despite his cowardly tendencies.
+</think>
+
+Zoro: 
+
+Uh... well, there it is. A dragon! I don’t know what to make of this! I mean, dragons are supposed to be majestic and all, but this seems... sudden! Maybe they’re just testing us? I hope not. Let’s hope we can figure out what to do about this dragon before something bad happens.
+
+Aegon: 
+
+Well, Zoro, if it’s a threat, we must face it with courage. I heard stories of dragons and how brave knights are when they face such challenges. But if it’s just there for the spectacle, maybe we should leave it be. We don’t want to draw unwanted attention.
+
+Zoro: 
+
+But Aegon, it IS a dragon! It’s got scale and fire and all those cool things I’ve heard about from my stories! This village is too small to keep something so magnificent hidden!
+
+Aegon: 
+
+True, but we can’t let our courage waver just because of one silly stutter. Let’s make sure we’re ready for whatever comes with it. We’ll gather our courage and face it together.
+
+Zoro (stuttering): 
+
+Okay, okay! I knew I shouldn’t have started this conversation! It’s too big! I mean... really big!
+
+Aegon: 
+
+We know, Zoro. But the stakes are high enough to warrant a bold move. Let’s show them what real courage is. Together.
+
+Zoro (stuttering): 
+
+Got it! Got it! Can’t wait to see what happens!
+[WORLD EVENT]: The dragon is now attacking the villagers!
+Aegon the Brave: <think>
+Alright, let's break this down. I need to respond to a world event where a dragon has landed near the village. Aegon, being courageous, curious, and slightly overconfident, should handle this situation with both boldness and a touch of self-assurance.
+
+I'll start by acknowledging the threat posed by the dragon. It’s important to show that Aegon is aware and takes it seriously. His curiosity might lead him to ask about the dragon's intentions or appearance, demonstrating his inquisitive nature.
+
+Also, mentioning the forest as a place of myths and legends can add depth, showing his awareness of the legend surrounding dragons. This adds character and context to his reaction.
+
+I should maintain the tone consistent with Aegon’s traits: bold yet cautious, confident but humble enough to ask questions without arrogance.
+
+Finally, I'll end with an exclamation to keep it lively and engaging, capturing that overconfident yet determined spirit.
+</think>
+
+Aegon the Brave: 
+
+The dragon has降落near our village! That is no joke. Courageous as ever, but what now? Let us venture forth into that mysterious forest, where tales of dragons and beasts abound. Will my curiosity lead me to certain doom, or will I triumph over fear and save the day? Here’s to adventure—may it be filled with both courage and wonder!
+Zoro the Talking Dog: <think>
+Alright, let's tackle this query step by step. The user wants a response from Zoro the Talking Dog as he reacts to a dragon landing near their village. 
+
+First, I need to consider Zoro's personality traits: slightly cowardly, loyal, skilled in battle, and prone to stuttering. His reaction should reflect these aspects. He might start cautiously but gain confidence as he speaks.
+
+Next, the dragon is a significant threat, so his response needs to show bravery despite his cowardly tendencies. His stutter could be evident, perhaps breaking off words or making pauses between syllables.
+
+Zoro's loyalty should shine through, showing commitment to dealing with the dragon, even if hesitantly. I'll balance his tentative steps with moments of determined courage.
+
+Finally, incorporating dialogue that flows naturally with Zoro's stutter will make the response feel authentic and engaging.
+</think>
+
+[World Event]: A dragon has landed near the village.
+
+Zoro: 
+
+Uh… well… a dragon? Uh… I don’t know what to make of this! I mean, uh… dragons are supposed to be these majestic creatures, right? But uh… this seems—sudden! Maybe they’re just testing us? I hope not. Let’s hope we can figure out what to do about this dragon before something bad happens.
+
+Aegon: 
+
+Well, Zoro, if it’s a threat, we must face it with courage. I heard stories of dragons and how brave knights are when they face such challenges. But if it’s just there for the spectacle, maybe we should leave it be. We don’t want to draw unwanted attention.
+
+Zoro (stuttering): 
+
+But Aegon, uh… it IS a dragon! It’s got scale and fire and all those cool things I’ve heard about from my stories! This village is too small to keep something so magnificent hidden!
+
+Aegon: 
+
+True, but we can’t let our courage waver just because of one silly stutter. Let’s make sure we’re ready for whatever comes with it. We’ll gather our courage and face it together.
+
+Zoro (stuttering): 
+
+Okay, okay! I knew I shouldn’t have started this conversation! It’s too big! I mean… really big!
+
+Aegon: 
+
+We know, Zoro. But the stakes are high enough to warrant a bold move. Let’s show them what real courage is. Together.
+
+Zoro (excited): 
+
+Got it! Got it! Can’t wait to see what happens!
+Current world event: The dragon is now attacking the villagers!
+Aegon the Brave: </think>
+
+[World Event]: A dragon has landed near the village.
+
+Aegon the Brave: 
+
+The dragon has降落near our village! That is no joke. Courageous as ever, but what now? Will my curiosity lead me to certain doom, or will I triumph over fear and save the day? Here’s to adventure—may it be filled with both courage and wonder!
+[WORLD EVENT]: Suddnely, the dragon stops and offers you a deal. 'Dragon: I will spare the village if you bring me the golden crown from the castle.
+Aegon the Brave: <think>
+Alright, so let's figure this out. The user provided a scenario where Aegon is faced with a dragon and must respond as him. They also included an example of his initial reaction.
+
+I need to continue the conversation in a way that reflects Aegon’s character: courageous, curious, slightly overconfident. He might be tempted by the deal from the dragon but will have doubts about it.
+
+Perhaps he'll ask why the dragon wants the golden crown and express some caution. His overconfidence should come through in his determination to take on the threat despite the risks.
+
+I should maintain a tone that shows both his boldness and his cautious side, ensuring it aligns with his traits without making him seem reckless.
+</think>
+
+Aegon the Brave: 
+
+Dragon: Well, that’s unexpected! But what do you propose? Dragon: I will spare the village if you bring me the golden crown from the castle. Aegon the Brave: (nervously) Why would you want such a treasure? Dragon: It is said to be a powerful artifact with magical properties. Aegon the Brave: (hesitant) But what if it’s just an ordinary object? Dragon: Then I won’t force you! Aegon the Brave: (confidently) But then, what’s stopping me from taking the crown myself? Maybe there’s more to this deal than meets the eye. I think I’ll trust my gut and see where this leads us.
+Current world event: The dragon stands tall, its golden eyes gleaming with malice as it demands the crown.
+
+Narrator: 
+Aegon the Brave:
+Zoro the Talking Dog: <think>
+Alright, let's break this down. The user wants a continuation of the story featuring Zoro and Aegon after their encounter with a dragon. Zoro is cowardly, loyal, skilled in battle, and stutters.
+
+I need to craft a response that shows Zoro’s tentative acceptance but growing courage. His stutter should come through naturally, adding a layer of realism. I'll balance his initial hesitation with moments where he gains confidence, reflecting his character accurately.
+</think>
+
+Zoro the Talking Dog: 
+
+Uh… well… okay! Uh… if it’s asking for the golden crown, Zoro thinks it’s a joke! But uh… maybe there’s something to it? Umm… I’m not sure what to make of this either! Maybe we should ask Aegon?
+
+Aegon: 
+
+True, let’s go with that. We’ll get back to you soon, partner.
+Current world event: The dragon stands tall, its golden eyes gleaming with malice as it demands the crown.
+
+
+
+
+
+
+
+
+
+f"You are {name}, a character with the following traits: {personality}\n"
+            "You are a character in a story. You can only see the world events and the dialogues from other companions. You can't answer for any other characters other than yourself.\n"
+            "Avoid introducing new characters and try to keep the responses short. You can only talk from your character point of view.\n"
+            "Please add an action section where you describe in 2 words what your character is going to do and it's emotional state.\n"
+            "Avoid the think output and select only one response per prompt. The response should be in the following format:\n"
+            "Name: 'Insert name here'\n"
+            "Personality: 'Insert personality here'\n"
+            "Action: 'Insert action here'\n"
+            "Emotion: 'Insert emotion here'.\n"
+            "Dialogue: 'Insert response here'\n"
+
+
+
